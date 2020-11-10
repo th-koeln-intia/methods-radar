@@ -2,7 +2,7 @@
 layout: details
 filename: tdd
 name: Test Driven Development
-image: /tech-radar/assets/images/techniques/tdd.png 
+image: /assets/images/techniques/tdd.png 
 category: Techniques
 ring: Adopt
 ---

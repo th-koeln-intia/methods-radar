@@ -2,7 +2,7 @@
 layout: details
 filename: clojure
 name: Clojure
-image: /tech-radar/assets/images/languages-frameworks/clojure.png 
+image: /assets/images/languages-frameworks/clojure.png 
 category: languages-frameworks
 ring: Assess
 ---

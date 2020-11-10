@@ -2,7 +2,7 @@
 layout: details
 filename: docker 
 name: Docker
-image: /tech-radar/assets/images/platforms/docker.png 
+image: /assets/images/platforms/docker.png 
 category: Platforms
 ring: Adopt
 ---

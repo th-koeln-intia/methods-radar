@@ -2,7 +2,7 @@
 layout: details
 filename: vb
 name: Visual Basic
-image: /tech-radar/assets/images/languages-frameworks/vb.jpg
+image: /assets/images/languages-frameworks/vb.jpg
 category: languages-frameworks
 ring: Deprecated
 ---

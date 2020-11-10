@@ -2,7 +2,7 @@
 layout: details
 filename: vs-code
 name: Visual Studio Code
-image: /tech-radar/assets/images/tools/vs-code.png 
+image: /assets/images/tools/vs-code.png 
 category: Tools
 ring: Adopt
 ---
