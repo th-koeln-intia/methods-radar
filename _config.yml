@@ -1,5 +1,5 @@
 name: Tech radar
-baseurl: "/tech-radar"
+baseurl: ""
 url: "https://methods.intia.de/"
 
 plugins:
